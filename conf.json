@@ -1,0 +1,10 @@
+{
+	"name":"KATEX数学公式显示",
+	"brief":"支持KATEX的数学公式显示。",
+	"version":"1.0",
+	"bbs_version":"4.0",
+	"installed":1,
+	"enable":1,
+	"hooks_rank":[],
+	"dependencies":[]
+}
